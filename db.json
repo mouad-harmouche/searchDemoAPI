@@ -1,15 +1,14 @@
 {
-    "locations": '<li class="selected-li-first" value=""><div class="cont">Votre adresse n’est pas proposée ? Compléter votre adresse  ></div></li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.51033,&quot;lng&quot;:-7.64141}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 5 CASAPARC GH3 CODE 02.1.93.954</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.51044,&quot;lng&quot;:-7.64143}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 6 CASAPARC GH3 CODE 02.1.93.955</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.5106,&quot;lng&quot;:-7.64145}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 7 CASAPARC GH3 CODE 02.1.93.956</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.5106,&quot;lng&quot;:-7.64163}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 8 CASAPARC GH3 CODE 02.1.93.957</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.51056,&quot;lng&quot;:-7.64182}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 9 CASAPARC GH3 CODE 02.1.93.958</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.5104,&quot;lng&quot;:-7.64182}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 10 CASAPARC GH3 CODE 02.1.93.959</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.51008,&quot;lng&quot;:-7.64176}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 12 CASAPARC GH3 CODE 02.1.93.961</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.50995,&quot;lng&quot;:-7.64174}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 13 CASAPARC GH3 CODE 02.1.93.962</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.50981,&quot;lng&quot;:-7.6417}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 14 CASAPARC GH3 CODE 02.1.93.963</li>
-            <li class="selected-li" value="{&quot;lat&quot;:33.50985,&quot;lng&quot;:-7.64136}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 16 CASAPARC GH3 CODE 02.1.93.965</li>
-    
-'
+  "locations": "<li class=\"selected-li-first\" value=\"\"><div class=\"cont\">Votre adresse n’est pas proposée ? Compléter votre adresse  ></div></li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.51033,&quot;lng&quot;:-7.64141}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 5 CASAPARC GH3 CODE 02.1.93.954</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.51044,&quot;lng&quot;:-7.64143}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 6 CASAPARC GH3 CODE 02.1.93.955</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.5106,&quot;lng&quot;:-7.64145}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 7 CASAPARC GH3 CODE 02.1.93.956</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.5106,&quot;lng&quot;:-7.64163}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 8 CASAPARC GH3 CODE 02.1.93.957</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.51056,&quot;lng&quot;:-7.64182}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 9 CASAPARC GH3 CODE 02.1.93.958</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.5104,&quot;lng&quot;:-7.64182}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 10 CASAPARC GH3 CODE 02.1.93.959</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.51008,&quot;lng&quot;:-7.64176}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 12 CASAPARC GH3 CODE 02.1.93.961</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.50995,&quot;lng&quot;:-7.64174}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 13 CASAPARC GH3 CODE 02.1.93.962</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.50981,&quot;lng&quot;:-7.6417}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 14 CASAPARC GH3 CODE 02.1.93.963</li>\n" +
+"            <li class=\"selected-li\" value=\"{&quot;lat&quot;:33.50985,&quot;lng&quot;:-7.64136}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 16 CASAPARC GH3 CODE 02.1.93.965</li>\n" +
+"    "
 }
