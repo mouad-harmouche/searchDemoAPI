@@ -1,5 +1,5 @@
 {
-    data: "    <li class="selected-li-first" value=""><div class="cont">Votre adresse n’est pas proposée ? Compléter votre adresse  ></div></li>
+    "locations": "    <li class="selected-li-first" value=""><div class="cont">Votre adresse n’est pas proposée ? Compléter votre adresse  ></div></li>
             <li class="selected-li" value="{&quot;lat&quot;:33.51033,&quot;lng&quot;:-7.64141}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 5 CASAPARC GH3 CODE 02.1.93.954</li>
             <li class="selected-li" value="{&quot;lat&quot;:33.51044,&quot;lng&quot;:-7.64143}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 6 CASAPARC GH3 CODE 02.1.93.955</li>
             <li class="selected-li" value="{&quot;lat&quot;:33.5106,&quot;lng&quot;:-7.64145}">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 7 CASAPARC GH3 CODE 02.1.93.956</li>
