@@ -1,5 +1,5 @@
 {
-  "locations": "<li class=\"selected-li-first\" value=\"\"><div class=\"cont\">Votre adresse n’est pas proposée ? Compléter votre adresse  ></div></li><li class=\"selected-li\" value=\"{&quot;lat&quot;:33.52091,&quot;lng&quot;:-7.64423}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 16 CASAPARC GH3 CODE 02.1.93.965</li>",
+  "adresses": "<li class=\"selected-li-first\" value=\"\"><div class=\"cont\">Votre adresse n’est pas proposée ? Compléter votre adresse  ></div></li><li class=\"selected-li\" value=\"{&quot;lat&quot;:33.52091,&quot;lng&quot;:-7.64423}\">CASABLANCA, SIDI MAAROUF, INCONNUE_CASAPARC, CASAPARC, 16 CASAPARC GH3 CODE 02.1.93.965</li>",
   "sriByDistance": [
     {
       "id": "5079831",
