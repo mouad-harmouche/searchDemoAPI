@@ -5,7 +5,7 @@
       "lat": 33.52109,
       "lng": -7.64419,
       "prop_type": "villa",
-      "adr_type": "addressable",
+      "adr_type": "adressable",
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C32, C\u002730 SOUFIANE LOT CHAIMAA CODE 02.1.92.652",
       "quotient": "0\/20",
       "clientsNumber": 0
@@ -35,7 +35,7 @@
       "lat": 33.52105,
       "lng": -7.64389,
       "prop_type": "building",
-      "adr_type": "addressable",
+      "adr_type": "adressable",
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C32, C3 SOUFIANE LOT CHAIMAA CODE 02.1.92.651",
       "quotient": "0\/20",
       "clientsNumber": 0
@@ -45,7 +45,7 @@
       "lat": 33.52096,
       "lng": -7.64451,
       "prop_type": "building",
-      "adr_type": "addressable",
+      "adr_type": "adressable",
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C10, C11 SOUFIANE LOT CHAIMAA CODE 02.1.92.626",
       "quotient": "0\/20",
       "clientsNumber": 0
@@ -65,7 +65,7 @@
       "lat": 33.52073,
       "lng": -7.64426,
       "prop_type": "villa",
-      "adr_type": "addressable",
+      "adr_type": "adressable",
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C32, C32 SOUFIANE LOT CHAIMAA CODE 02.1.92.653",
       "quotient": "0\/20",
       "clientsNumber": 0
@@ -225,7 +225,7 @@
       "lat": 33.5216,
       "lng": -7.64489,
       "prop_type": "building",
-      "adr_type": "addressable",
+      "adr_type": "adressable",
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 124 CODE 02.1.92.381",
       "quotient": "0\/11",
       "clientsNumber": 0
@@ -235,7 +235,7 @@
       "lat": 33.52087,
       "lng": -7.64514,
       "prop_type": "building",
-      "adr_type": "addressable",
+      "adr_type": "adressable",
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C22, C\u002727 SOUFIANE LOT CHAIMAA CODE 02.1.92.640",
       "quotient": "0\/20",
       "clientsNumber": 0
@@ -245,7 +245,7 @@
       "lat": 33.52036,
       "lng": -7.64466,
       "prop_type": "building",
-      "adr_type": "addressable",
+      "adr_type": "adressable",
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE E4, PR5 SOUFIANE LOT CHAIMAA CODE 02.1.92.701",
       "quotient": "0\/15",
       "clientsNumber": 0
