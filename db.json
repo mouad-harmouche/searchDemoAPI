@@ -261,7 +261,7 @@
       "clientsNumber": 0
     }
   ],
-  ftthSubscriberResults :{
+  "ftthSubscriberResults" :{
    "ftthSubscriberResults":{
       "totalClients":0,
       "totalBuilding":24,
