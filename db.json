@@ -51,36 +51,6 @@
       "clientsNumber": 0
     },
     {
-      "id": "5079674",
-      "lat": 33.52086,
-      "lng": -7.64394,
-      "prop_type": "villa",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C32, C13 SOUFIANE LOT CHAIMAA CODE 02.1.92.650",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5079953",
-      "lat": 33.52073,
-      "lng": -7.64426,
-      "prop_type": "villa",
-      "adr_type": "adressable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C32, C32 SOUFIANE LOT CHAIMAA CODE 02.1.92.653",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5109538",
-      "lat": 33.52147,
-      "lng": -7.6442,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 128 HOUSSNA CODE 02.1.92.384",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
       "id": "5109586",
       "lat": 33.52143,
       "lng": -7.64397,
@@ -121,46 +91,6 @@
       "clientsNumber": 0
     },
     {
-      "id": "5121011",
-      "lat": 33.52118,
-      "lng": -7.64477,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C10, C\u002726 SOUFIANE LOT CHAIMAA CODE 02.1.92.627",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5109534",
-      "lat": 33.52153,
-      "lng": -7.6445,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 126 CODE 02.1.92.383",
-      "quotient": "0\/3",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5120780",
-      "lat": 33.52101,
-      "lng": -7.64481,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C10, C10 SOUFIANE LOT CHAIMAA CODE 02.1.92.625",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5109728",
-      "lat": 33.52139,
-      "lng": -7.64367,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 134 CODE 02.1.92.387",
-      "quotient": "0\/8",
-      "clientsNumber": 0
-    },
-    {
       "id": "5109527",
       "lat": 33.52154,
       "lng": -7.64465,
@@ -178,66 +108,6 @@
       "adr_type": "raccordable",
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 135 ZAKARIA ET AMIS CODE 02.1.92.388",
       "quotient": "0\/11",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5121087",
-      "lat": 33.52083,
-      "lng": -7.64486,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C10, C\u002728 SOUFIANE LOT CHAIMAA CODE 02.1.92.628",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5082162",
-      "lat": 33.52051,
-      "lng": -7.64467,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE E2, PR5 BIS SOUFIANE LOT CHAIMAA CODE 02.1.92.692",
-      "quotient": "0\/10",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5121567",
-      "lat": 33.52124,
-      "lng": -7.64505,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C22, C\u002725 SOUFIANE LOT CHAIMAA CODE 02.1.92.639",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5121878",
-      "lat": 33.52105,
-      "lng": -7.64509,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C22, C9 CODE 02.1.92.642",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5109501",
-      "lat": 33.5216,
-      "lng": -7.64489,
-      "prop_type": "building",
-      "adr_type": "adressable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 124 CODE 02.1.92.381",
-      "quotient": "0\/11",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5121666",
-      "lat": 33.52087,
-      "lng": -7.64514,
-      "prop_type": "building",
-      "adr_type": "adressable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C22, C\u002727 SOUFIANE LOT CHAIMAA CODE 02.1.92.640",
-      "quotient": "0\/20",
       "clientsNumber": 0
     },
     {
@@ -298,114 +168,6 @@
                "street":"MAURICE RAVEL",
                "projectName":null,
                "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 2 APT 7"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 1 APT 2"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 5 APT 19"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 1 APT 3"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"MGS 3"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 3 APT 12"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 1 APT 1"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"MGS 4"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 1 APT 4"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
                "apartmentName":"ETG 3 APT 9"
             },
             "subscribed":false
@@ -442,114 +204,6 @@
                "street":"MAURICE RAVEL",
                "projectName":null,
                "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 4 APT 16"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"MGS 2"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 4 APT 13"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 2 APT 8"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 5 APT 20"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 3 APT 10"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"MGS 1"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 4 APT 15"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 4 APT 14"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
                "apartmentName":"ETG 2 APT 5"
             },
             "subscribed":false
@@ -564,34 +218,6 @@
       {
          "id":"4803780",
          "apartment":"ETG 1 APT 2"
-      },
-      {
-         "id":"4803809",
-         "apartment":"ETG 1 APT 3"
-      },
-      {
-         "id":"4803856",
-         "apartment":"ETG 1 APT 4"
-      },
-      {
-         "id":"4803857",
-         "apartment":"ETG 2 APT 5"
-      },
-      {
-         "id":"4803818",
-         "apartment":"ETG 2 APT 6"
-      },
-      {
-         "id":"4803773",
-         "apartment":"ETG 2 APT 7"
-      },
-      {
-         "id":"4803789",
-         "apartment":"ETG 2 APT 8"
-      },
-      {
-         "id":"4803797",
-         "apartment":"ETG 3 APT 9"
       },
       {
          "id":"4803785",
@@ -636,22 +262,6 @@
       {
          "id":"4803854",
          "apartment":"ETG 5 APT 20"
-      },
-      {
-         "id":"4803793",
-         "apartment":"MGS 1"
-      },
-      {
-         "id":"4803840",
-         "apartment":"MGS 2"
-      },
-      {
-         "id":"4803826",
-         "apartment":"MGS 3"
-      },
-      {
-         "id":"4803855",
-         "apartment":"MGS 4"
       }
    ]
 }
