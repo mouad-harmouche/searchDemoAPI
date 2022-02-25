@@ -260,5 +260,399 @@
       "quotient": "0\/16",
       "clientsNumber": 0
     }
-  ]
+  ],
+  {
+   "ftthSubscriberResults":{
+      "totalClients":0,
+      "totalBuilding":24,
+      "clients":[
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 5 APT 17"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 5 APT 18"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 2 APT 7"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 1 APT 2"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 5 APT 19"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 1 APT 3"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"MGS 3"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 3 APT 12"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 1 APT 1"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"MGS 4"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 1 APT 4"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 3 APT 9"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 3 APT 11"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 2 APT 6"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 4 APT 16"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"MGS 2"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 4 APT 13"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 2 APT 8"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 5 APT 20"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 3 APT 10"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"MGS 1"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 4 APT 15"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 4 APT 14"
+            },
+            "subscribed":false
+         },
+         {
+            "clientsByBuilding":0,
+            "fullAddress":{
+               "city":"CASABLANCA",
+               "district":"BELVEDERE",
+               "street":"MAURICE RAVEL",
+               "projectName":null,
+               "propertyName":"24 CODE 01.5.31.467",
+               "apartmentName":"ETG 2 APT 5"
+            },
+            "subscribed":false
+         }
+      ]
+   },
+   "result":[
+      {
+         "id":"4803852",
+         "apartment":"ETG 1 APT 1"
+      },
+      {
+         "id":"4803780",
+         "apartment":"ETG 1 APT 2"
+      },
+      {
+         "id":"4803809",
+         "apartment":"ETG 1 APT 3"
+      },
+      {
+         "id":"4803856",
+         "apartment":"ETG 1 APT 4"
+      },
+      {
+         "id":"4803857",
+         "apartment":"ETG 2 APT 5"
+      },
+      {
+         "id":"4803818",
+         "apartment":"ETG 2 APT 6"
+      },
+      {
+         "id":"4803773",
+         "apartment":"ETG 2 APT 7"
+      },
+      {
+         "id":"4803789",
+         "apartment":"ETG 2 APT 8"
+      },
+      {
+         "id":"4803797",
+         "apartment":"ETG 3 APT 9"
+      },
+      {
+         "id":"4803785",
+         "apartment":"ETG 3 APT 10"
+      },
+      {
+         "id":"4803805",
+         "apartment":"ETG 3 APT 11"
+      },
+      {
+         "id":"4803835",
+         "apartment":"ETG 3 APT 12"
+      },
+      {
+         "id":"4803845",
+         "apartment":"ETG 4 APT 13"
+      },
+      {
+         "id":"4803823",
+         "apartment":"ETG 4 APT 14"
+      },
+      {
+         "id":"4803813",
+         "apartment":"ETG 4 APT 15"
+      },
+      {
+         "id":"4803831",
+         "apartment":"ETG 4 APT 16"
+      },
+      {
+         "id":"4803850",
+         "apartment":"ETG 5 APT 17"
+      },
+      {
+         "id":"4803853",
+         "apartment":"ETG 5 APT 18"
+      },
+      {
+         "id":"4803801",
+         "apartment":"ETG 5 APT 19"
+      },
+      {
+         "id":"4803854",
+         "apartment":"ETG 5 APT 20"
+      },
+      {
+         "id":"4803793",
+         "apartment":"MGS 1"
+      },
+      {
+         "id":"4803840",
+         "apartment":"MGS 2"
+      },
+      {
+         "id":"4803826",
+         "apartment":"MGS 3"
+      },
+      {
+         "id":"4803855",
+         "apartment":"MGS 4"
+      }
+   ]
+}
 }
