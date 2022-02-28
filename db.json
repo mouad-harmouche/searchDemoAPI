@@ -1,5 +1,7 @@
 {
-  "sriByDistance": [
+  "check-elegibility": []
+  "search-address-api": [],
+  "sri-by-distance": [
     {
       "id": "5079831",
       "lat": 33.52109,
@@ -131,7 +133,7 @@
       "clientsNumber": 0
     }
   ],
-  "ftthSubscriberResults" :{
+  "apartments" :{
    "ftthSubscriberResults":{
       "totalClients":0,
       "totalBuilding":24,
