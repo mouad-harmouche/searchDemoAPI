@@ -1,4 +1,96 @@
 {
+  "nearby-points": [
+     {
+        "id":"417727375",
+        "name":"29 SAADA CODE 01.9.61.690",
+        "type":"immeuble",
+        "eligibility":"raccordable",
+        "latitude":33.56956,
+        "longitude":-7.67274,
+        "city":"CASABLANCA",
+        "district":"MAZOLA",
+        "street":"IBNOU SINA",
+        "projectName":"",
+        "apartemntsNumber":16,
+        "clientsNumber":0,
+        "address":"CASABLANCA, MAZOLA, IBNOU SINA, 29 SAADA CODE 01.9.61.690"
+     },
+     {
+        "id":"417727234",
+        "name":"28 SAADA CODE 01.9.61.689",
+        "type":"immeuble",
+        "eligibility":"raccordable",
+        "latitude":33.56944,
+        "longitude":-7.67304,
+        "city":"CASABLANCA",
+        "district":"MAZOLA",
+        "street":"IBNOU SINA",
+        "projectName":"",
+        "apartemntsNumber":16,
+        "clientsNumber":0,
+        "address":"CASABLANCA, MAZOLA, IBNOU SINA, 28 SAADA CODE 01.9.61.689"
+     },
+     {
+        "id":"418397659",
+        "name":"31 SAADA CODE 01.9.61.447",
+        "type":"immeuble",
+        "eligibility":"raccordable",
+        "latitude":33.5698,
+        "longitude":-7.67222,
+        "city":"CASABLANCA",
+        "district":"MAZOLA",
+        "street":"RUE 8",
+        "projectName":"",
+        "apartemntsNumber":9,
+        "clientsNumber":0,
+        "address":"CASABLANCA, MAZOLA, RUE 8, 31 SAADA CODE 01.9.61.447"
+     },
+     {
+        "id":"417727509",
+        "name":"14 SAADA CODE 01.9.61.441",
+        "type":"immeuble",
+        "eligibility":"raccordable",
+        "latitude":33.56867,
+        "longitude":-7.67217,
+        "city":"CASABLANCA",
+        "district":"MAZOLA",
+        "street":"RUE 8",
+        "projectName":"",
+        "apartemntsNumber":17,
+        "clientsNumber":0,
+        "address":"CASABLANCA, MAZOLA, RUE 8, 14 SAADA CODE 01.9.61.441"
+     },
+     {
+        "id":"417727489",
+        "name":"15 SAADA CODE 01.9.61.442",
+        "type":"immeuble",
+        "eligibility":"raccordable",
+        "latitude":33.56877,
+        "longitude":-7.67192,
+        "city":"CASABLANCA",
+        "district":"MAZOLA",
+        "street":"RUE 8",
+        "projectName":"",
+        "apartemntsNumber":16,
+        "clientsNumber":0,
+        "address":"CASABLANCA, MAZOLA, RUE 8, 15 SAADA CODE 01.9.61.442"
+     },
+     {
+        "id":"417866294",
+        "name":"13 SAADA CODE 01.9.61.603",
+        "type":"immeuble",
+        "eligibility":"raccordable",
+        "latitude":33.56854,
+        "longitude":-7.67248,
+        "city":"CASABLANCA",
+        "district":"MAZOLA",
+        "street":"RUE 8",
+        "projectName":"",
+        "apartemntsNumber":17,
+        "clientsNumber":0,
+        "address":"CASABLANCA, MAZOLA, RUE 8, 13 SAADA CODE 01.9.61.603"
+     }
+  ],
   "check-elegibility": [],
   "search-address-api": [],
   "sri-by-distance": [
@@ -81,56 +173,6 @@
       "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 132 CODE 02.1.92.386",
       "quotient": "0\/0",
       "clientsNumber": 0
-    },
-    {
-      "id": "5080028",
-      "lat": 33.52068,
-      "lng": -7.64398,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE C32, C34 SOUFIANE LOT CHAIMAA CODE 02.1.92.654",
-      "quotient": "0\/20",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5109527",
-      "lat": 33.52154,
-      "lng": -7.64465,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 125 CODE 02.1.92.382",
-      "quotient": "0\/8",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5109736",
-      "lat": 33.52138,
-      "lng": -7.64356,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, ABDERRHMANE BEN MOUSSA, 135 ZAKARIA ET AMIS CODE 02.1.92.388",
-      "quotient": "0\/11",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5082462",
-      "lat": 33.52036,
-      "lng": -7.64466,
-      "prop_type": "building",
-      "adr_type": "adressable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, INCONNUE_RESIDENCE E4, PR5 SOUFIANE LOT CHAIMAA CODE 02.1.92.701",
-      "quotient": "0\/15",
-      "clientsNumber": 0
-    },
-    {
-      "id": "5099683",
-      "lat": 33.52157,
-      "lng": -7.64335,
-      "prop_type": "building",
-      "adr_type": "raccordable",
-      "adr": "CASABLANCA, CHAIMAE SOUFIANE, 79, 147 CODE 02.1.92.150",
-      "quotient": "0\/16",
-      "clientsNumber": 0
     }
   ],
   "apartments" :{
@@ -159,18 +201,6 @@
                "projectName":null,
                "propertyName":"24 CODE 01.5.31.467",
                "apartmentName":"ETG 5 APT 18"
-            },
-            "subscribed":false
-         },
-         {
-            "clientsByBuilding":0,
-            "fullAddress":{
-               "city":"CASABLANCA",
-               "district":"BELVEDERE",
-               "street":"MAURICE RAVEL",
-               "projectName":null,
-               "propertyName":"24 CODE 01.5.31.467",
-               "apartmentName":"ETG 3 APT 9"
             },
             "subscribed":false
          },
@@ -228,42 +258,6 @@
       {
          "id":"4803805",
          "apartment":"ETG 3 APT 11"
-      },
-      {
-         "id":"4803835",
-         "apartment":"ETG 3 APT 12"
-      },
-      {
-         "id":"4803845",
-         "apartment":"ETG 4 APT 13"
-      },
-      {
-         "id":"4803823",
-         "apartment":"ETG 4 APT 14"
-      },
-      {
-         "id":"4803813",
-         "apartment":"ETG 4 APT 15"
-      },
-      {
-         "id":"4803831",
-         "apartment":"ETG 4 APT 16"
-      },
-      {
-         "id":"4803850",
-         "apartment":"ETG 5 APT 17"
-      },
-      {
-         "id":"4803853",
-         "apartment":"ETG 5 APT 18"
-      },
-      {
-         "id":"4803801",
-         "apartment":"ETG 5 APT 19"
-      },
-      {
-         "id":"4803854",
-         "apartment":"ETG 5 APT 20"
       }
    ]
 }
